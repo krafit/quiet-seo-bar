@@ -46,3 +46,6 @@ Colours and sizes are set on `.tsf-seo-bar` and can be overridden in admin CSS: 
 = 1.0.0 =
 * Initial release: small status shapes (circle, triangle, octagon, ring, dash) instead of coloured blocks in The SEO Framework's list table SEO Bar, with grouped default items and The SEO Framework's tooltips and screen reader labels intact.
 * Developer: new filters `quiet_seo_bar_colorize_good`, `quiet_seo_bar_group_items` and `quiet_seo_bar_load`, plus `--quiet-seo-bar-*` CSS custom properties.
+
+== Screenshots ==
+1. Left: The SEO Framework’s default SEO Bar with big, colourful boxes. Right: the same list with Quiet SEO Bar’s small status shapes.
